@@ -9,12 +9,12 @@ The server and client project are separate components and have it's own technolo
 ## Server:
 * 
 
-## dev:
+## Web:
 * Material Responsive
 
 
 ## Checkout 
 
 ```
-git clone https://github.com/FabricGroup/ToyotaMyToyota/ mytoyota
+git clone https://github.com/Walteroos2/bradleys.git
 ```
